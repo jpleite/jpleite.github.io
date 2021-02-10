@@ -9,7 +9,7 @@
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -29,7 +29,7 @@
         <regular_price>39,99€</regular_price>
         <current_price>39,99€</current_price>
         <availability>in stock</availability>
-        <availability>3</availability>
+        <stock>3</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -49,7 +49,7 @@
         <regular_price>39,99€</regular_price>
         <current_price>39,99€</current_price>
         <availability>in stock</availability>
-        <availability>3</availability>
+        <stock>3</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -69,7 +69,7 @@
         <regular_price>39,99€</regular_price>
         <current_price>39,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -88,8 +88,8 @@
         <designation>Bolsa UAG - Computadores de 15" (Black)</designation>
         <regular_price>39,99€</regular_price>
         <current_price>39,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -109,7 +109,7 @@
         <regular_price>32,51€</regular_price>
         <current_price>32,51€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -129,7 +129,7 @@
         <regular_price>29,99€</regular_price>
         <current_price>29,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -149,7 +149,7 @@
         <regular_price>29,99€</regular_price>
         <current_price>29,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -168,8 +168,8 @@
         <designation>Mochila UAG 24 Litros (Grey Midnight Camo)</designation>
         <regular_price>119,99€</regular_price>
         <current_price>119,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -189,7 +189,7 @@
         <regular_price>119,99€</regular_price>
         <current_price>119,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -209,7 +209,7 @@
         <regular_price>8,09€</regular_price>
         <current_price>8,09€</current_price>
         <availability>in stock</availability>
-        <availability>2</availability>
+        <stock>2</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -229,7 +229,7 @@
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>4</availability>
+        <stock>4</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -249,7 +249,7 @@
         <regular_price>81,29€</regular_price>
         <current_price>81,29€</current_price>
         <availability>in stock</availability>
-        <availability>5</availability>
+        <stock>5</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -269,7 +269,7 @@
         <regular_price>129,99€</regular_price>
         <current_price>129,99€</current_price>
         <availability>in stock</availability>
-        <availability>2</availability>
+        <stock>2</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -289,7 +289,7 @@
         <regular_price>129,99€</regular_price>
         <current_price>129,99€</current_price>
         <availability>in stock</availability>
-        <availability>2</availability>
+        <stock>2</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -309,7 +309,7 @@
         <regular_price>129,99€</regular_price>
         <current_price>129,99€</current_price>
         <availability>in stock</availability>
-        <availability>2</availability>
+        <stock>2</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -328,8 +328,8 @@
         <designation>Defunc TRUE GAMING (Verde)</designation>
         <regular_price>99,99€</regular_price>
         <current_price>99,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -348,8 +348,8 @@
         <designation>Defunc TRUE GAMING (Branco)</designation>
         <regular_price>99,99€</regular_price>
         <current_price>99,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -369,7 +369,7 @@
         <regular_price>99,99€</regular_price>
         <current_price>99,99€</current_price>
         <availability>in stock</availability>
-        <availability>5</availability>
+        <stock>5</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -389,7 +389,7 @@
         <regular_price>79,99€</regular_price>
         <current_price>79,99€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -409,7 +409,7 @@
         <regular_price>79,99€</regular_price>
         <current_price>79,99€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -429,7 +429,7 @@
         <regular_price>79,99€</regular_price>
         <current_price>79,99€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -449,7 +449,7 @@
         <regular_price>79,99€</regular_price>
         <current_price>79,99€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -469,7 +469,7 @@
         <regular_price>79,99€</regular_price>
         <current_price>79,99€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -489,7 +489,7 @@
         <regular_price>79,99€</regular_price>
         <current_price>79,99€</current_price>
         <availability>in stock</availability>
-        <availability>5</availability>
+        <stock>5</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -509,7 +509,7 @@
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -529,7 +529,7 @@
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -549,7 +549,7 @@
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -569,7 +569,7 @@
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -589,7 +589,7 @@
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>8</availability>
+        <stock>8</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -609,7 +609,7 @@
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>4</availability>
+        <stock>4</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -629,7 +629,7 @@
         <regular_price>24,38€</regular_price>
         <current_price>24,38€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -649,7 +649,7 @@
         <regular_price>24,38€</regular_price>
         <current_price>24,38€</current_price>
         <availability>in stock</availability>
-        <availability>2</availability>
+        <stock>2</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -669,7 +669,7 @@
         <regular_price>24,38€</regular_price>
         <current_price>24,38€</current_price>
         <availability>in stock</availability>
-        <availability>2</availability>
+        <stock>2</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -689,7 +689,7 @@
         <regular_price>24,38€</regular_price>
         <current_price>24,38€</current_price>
         <availability>in stock</availability>
-        <availability>2</availability>
+        <stock>2</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -709,7 +709,7 @@
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -729,7 +729,7 @@
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -749,7 +749,7 @@
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -768,8 +768,8 @@
         <designation>Capa UAG Série Monarch Galaxy Note20 Ultra (Black)</designation>
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -788,8 +788,8 @@
         <designation>Capa UAG Série Monarch Galaxy Note20 Ultra (Crimson)</designation>
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -809,7 +809,7 @@
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -829,7 +829,7 @@
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -849,7 +849,7 @@
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -869,7 +869,7 @@
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -889,7 +889,7 @@
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -909,7 +909,7 @@
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -929,7 +929,7 @@
         <regular_price>56,9€</regular_price>
         <current_price>56,9€</current_price>
         <availability>in stock</availability>
-        <availability>2</availability>
+        <stock>2</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -949,7 +949,7 @@
         <regular_price>48,77€</regular_price>
         <current_price>48,77€</current_price>
         <availability>in stock</availability>
-        <availability>5</availability>
+        <stock>5</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -969,7 +969,7 @@
         <regular_price>29,99€</regular_price>
         <current_price>29,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -989,7 +989,7 @@
         <regular_price>29,99€</regular_price>
         <current_price>29,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1009,7 +1009,7 @@
         <regular_price>29,99€</regular_price>
         <current_price>29,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1029,7 +1029,7 @@
         <regular_price>44,94€</regular_price>
         <current_price>44,94€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1048,8 +1048,8 @@
         <designation>Capa UAG Série Metropolis iPad Pro 11" (2nd Gen. 2020) (Black)</designation>
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1070,7 +1070,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1091,7 +1091,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1112,7 +1112,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1132,7 +1132,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1152,7 +1152,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>49,99€</regular_price>
         <current_price>49,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1172,7 +1172,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1191,8 +1191,8 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <designation>Capa UAG Série Pathfinder iPhone 12 Pro Max (White)</designation>
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1212,7 +1212,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1232,7 +1232,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1252,7 +1252,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1272,7 +1272,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1292,7 +1292,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1312,7 +1312,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1332,7 +1332,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1352,7 +1352,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>44,99€</regular_price>
         <current_price>44,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1372,7 +1372,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>44,99€</regular_price>
         <current_price>44,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1392,7 +1392,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>4</availability>
+        <stock>4</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1411,8 +1411,8 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <designation>Capa UAG [U] Série Anchor iPhone 12 Pro Max (Light Grey)</designation>
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1432,7 +1432,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1452,7 +1452,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>5</availability>
+        <stock>5</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1472,7 +1472,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1492,7 +1492,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1512,7 +1512,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1532,7 +1532,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1552,7 +1552,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1572,7 +1572,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1592,7 +1592,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1612,7 +1612,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1632,7 +1632,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1652,7 +1652,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1672,7 +1672,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1692,7 +1692,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1712,7 +1712,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1732,7 +1732,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1752,7 +1752,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1772,7 +1772,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>5</availability>
+        <stock>5</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1792,7 +1792,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1811,8 +1811,8 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <designation>UAG Pathfinder Series iPhone 12 mini Case (White)</designation>
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1832,7 +1832,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1852,7 +1852,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1872,7 +1872,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1892,7 +1892,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1912,7 +1912,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1932,7 +1932,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1952,7 +1952,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1972,7 +1972,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -1992,7 +1992,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2012,7 +2012,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2032,7 +2032,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>44,99€</regular_price>
         <current_price>44,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2052,7 +2052,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>44,99€</regular_price>
         <current_price>44,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2072,7 +2072,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2092,7 +2092,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2112,7 +2112,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2132,7 +2132,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2152,7 +2152,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2172,7 +2172,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2192,7 +2192,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2212,7 +2212,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2232,7 +2232,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2252,7 +2252,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>4</availability>
+        <stock>4</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2272,7 +2272,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2292,7 +2292,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2312,7 +2312,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2332,7 +2332,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2352,7 +2352,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2372,7 +2372,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2392,7 +2392,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2412,7 +2412,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>44,99€</regular_price>
         <current_price>44,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2432,7 +2432,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>44,99€</regular_price>
         <current_price>44,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2452,7 +2452,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2472,7 +2472,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2492,7 +2492,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2512,7 +2512,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>24,99€</regular_price>
         <current_price>24,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2532,7 +2532,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2552,7 +2552,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2571,8 +2571,8 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <designation>Capa UAG Série Pathfinder iPhone 11 (Black)</designation>
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2592,7 +2592,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2611,8 +2611,8 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <designation>Capa UAG Biodegradável Outback Series iPhone 11 (Olive)</designation>
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2632,7 +2632,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2651,8 +2651,8 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <designation>Capa UAG Plyo Galaxy Note20 Ultra (Ice)</designation>
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2672,7 +2672,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2692,7 +2692,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2711,8 +2711,8 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <designation>Capa UAG Biodegradável série Outback iPhone 11 Pro (Black)</designation>
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2732,7 +2732,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>34,99€</regular_price>
         <current_price>34,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2751,8 +2751,8 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <designation>Capa UAG Série Monarch iPhone 11 Pro (Carbon Fiber)</designation>
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2772,7 +2772,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>54,99€</regular_price>
         <current_price>54,99€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2791,8 +2791,8 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <designation>Capa UAG Série Plasma iPhone XR (Ash)</designation>
         <regular_price>30€</regular_price>
         <current_price>30€</current_price>
-        <availability>in stock</availability>
-        <availability>0</availability>
+        <availability>out of stock</availability>
+        <stock>0</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2812,7 +2812,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>30€</regular_price>
         <current_price>30€</current_price>
         <availability>in stock</availability>
-        <availability>1</availability>
+        <stock>1</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
@@ -2832,7 +2832,7 @@ fólio para despertar / dormir automático&lt;/li&gt; &lt;li&gt;Suporte para o L
         <regular_price>20,32€</regular_price>
         <current_price>20,32€</current_price>
         <availability>in stock</availability>
-        <availability>10</availability>
+        <stock>10</stock>
         <norma_shipping_cost>3,5€</norma_shipping_cost>
         <min_delivery_time>1</min_delivery_time>
         <max_delivery_time>3</max_delivery_time>
